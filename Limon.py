@@ -337,7 +337,7 @@ class Akash:
         print(f' THANKS FOR USING MY TOOL')
         linex()
     
-    def afghan():
+    def india():
         clear()
         print(f' EXAMPLE  : 91637,91789,91620')
         code = input(f' SELECT   :{G} ');linex()
